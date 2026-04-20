@@ -46,11 +46,12 @@ trivia-pulse/
 ├── app/
 │   ├── main.py        # SVG assembly + entry point
 │   ├── utils.py       # text wrapping, height calc, XML escaping
-│   └── services.py    # API fetch with fallback facts
+│   └── services.py    # fact fetch with fallback facts
 ├── .github/
 │   └── workflows/
 │       └── update.yml # daily cron action
 ├── fact.svg           # auto-generated (do not edit manually)
+├── facts.json         # facts file to reduce the API dependency
 ├── requirements.txt
 ├── README.md
 └── .gitignore
