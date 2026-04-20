@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="154" viewBox="0 0 740 154">
+  <defs>
+    <!-- Background grid pattern -->
+    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1a1a1a" stroke-width="0.5"/>
+    </pattern>
+
+    <!-- Acid glow filter -->
+    <filter id="acid-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle text glow -->
+    <filter id="text-glow" x="-5%" y="-5%" width="110%" height="110%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <linearGradient id="fade-bottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0a0a" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0.6"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Void black base -->
+  <rect width="740" height="154" fill="#0a0a0a" rx="10"/>
+
+  <!-- Grid texture -->
+  <rect width="740" height="154" fill="url(#grid)" rx="10" opacity="1"/>
+
+  <!-- Acid yellow top border bar -->
+  <rect x="0" y="0" width="740" height="3" fill="#e8ff00" rx="2" filter="url(#acid-glow)"/>
+
+  <!-- Left accent stripe -->
+  <rect x="0" y="3" width="3" height="151" fill="#e8ff00" opacity="0.15"/>
+
+  <!-- Corner bracket top-left -->
+  <path d="M 18 14 L 18 26 L 30 26" fill="none" stroke="#e8ff00" stroke-width="1.8" stroke-linecap="square" filter="url(#acid-glow)"/>
+
+  <!-- Corner bracket top-right -->
+  <path d="M 722 14 L 722 26 L 710 26" fill="none" stroke="#e8ff00" stroke-width="1.8" stroke-linecap="square" filter="url(#acid-glow)"/>
+
+  <!-- Corner bracket bottom-left -->
+  <path d="M 18 140 L 18 128 L 30 128" fill="none" stroke="#e8ff00" stroke-width="1.8" stroke-linecap="square" opacity="0.5"/>
+
+  <!-- Corner bracket bottom-right -->
+  <path d="M 722 140 L 722 128 L 710 128" fill="none" stroke="#e8ff00" stroke-width="1.8" stroke-linecap="square" opacity="0.5"/>
+
+  <!-- Header label -->
+  <text x="36" y="34"
+    font-family="'Courier New', Courier, monospace"
+    font-size="10" font-weight="bold"
+    fill="#e8ff00" letter-spacing="4"
+    filter="url(#acid-glow)">TRIVIA_PULSE</text>
+
+  <!-- Blinking cursor dot -->
+  <circle cx="148" cy="30" r="3" fill="#e8ff00" filter="url(#acid-glow)">
+    <animate attributeName="opacity" values="1;0;1" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- System tag right side -->
+  <text x="704" y="34"
+    font-family="'Courier New', Courier, monospace"
+    font-size="9" fill="#b8cc00"
+    text-anchor="end" letter-spacing="1" opacity="0.7">SYS::RANDOM_FACT</text>
+
+  <!-- Separator line -->
+  <line x1="36" y1="46" x2="704" y2="46"
+    stroke="#e8ff00" stroke-width="0.6" opacity="0.4"/>
+
+  <!-- Prompt character -->
+  <text x="36" y="72"
+    font-family="'Courier New', Courier, monospace"
+    font-size="12" fill="#e8ff00"
+    filter="url(#acid-glow)">~/fact $</text>
+
+  <!-- Fact text lines -->
+    <text x="36" y="88" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#f0f0f0" letter-spacing="0.3">Email is older than the World Wide Web. Ray Tomlinson sent the first</text>
+    <text x="36" y="110" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#f0f0f0" letter-spacing="0.3">email in 1971 — the web wasn&apos;t invented until 1989.</text>
+
+  <!-- Bottom fade overlay -->
+  <rect x="0" y="114" width="740" height="40" fill="url(#fade-bottom)" rx="10"/>
+
+  <!-- Bottom separator -->
+  <line x1="36" y1="126" x2="704" y2="126"
+    stroke="#e8ff00" stroke-width="0.6" opacity="0.2"/>
+
+  <!-- Timestamp -->
+  <text x="36" y="136"
+    font-family="'Courier New', Courier, monospace"
+    font-size="9" fill="#b8cc00"
+    letter-spacing="1" opacity="0.6">UPDATED :: 20 Apr 2026 · 09:05 UTC</text>
+
+  <!-- Source tag -->
+  <text x="704" y="136"
+    font-family="'Courier New', Courier, monospace"
+    font-size="9" fill="#b8cc00"
+    text-anchor="end" letter-spacing="1" opacity="0.5">uselessfacts.jsph.pl</text>
+</svg>
