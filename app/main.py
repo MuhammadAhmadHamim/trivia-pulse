@@ -29,7 +29,7 @@ def build_svg(fact: str) -> str:
     for i, line in enumerate(lines):
         y = y_start + i * 22
         text_lines_svg += (
-            f'    <text x="36" y="{y}" '
+            f'    <text x="36", y="{y}" '
             f'font-family="'Courier New', Courier, monospace" '
             f'font-size="13.5" fill="{GHOST_WHITE}" '
             f'letter-spacing="0.3">{escape_xml(line)}</text>\n'
