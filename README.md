@@ -117,7 +117,7 @@ python app/main.py
 
 ![](https://img.shields.io/badge/Python-SVG%20Generation-e8e8e8?style=flat-square&logo=python&logoColor=black)
 ![](https://img.shields.io/badge/GitHub%20Actions-Cron%20Workflow-141414?style=flat-square&logo=githubactions&logoColor=e8e8e8)
-![](https://img.shields.io/badge/REST%20API-Fact%20Fetching-a0a0a0?style=flat-square&logo=fastapi&logoColor=black)
+![](https://img.shields.io/badge/Data-JSON%20Processing-a0a0a0?style=flat-square&logo=json&logoColor=black)
 ![](https://img.shields.io/badge/XML-SVG%20Templating-e8e8e8?style=flat-square&logo=html5&logoColor=black)
 ![](https://img.shields.io/badge/Automation-Zero%20Touch%20Pipeline-141414?style=flat-square&logo=buffer&logoColor=e8e8e8)
 ![](https://img.shields.io/badge/Git-Automated%20Commits-a0a0a0?style=flat-square&logo=git&logoColor=black)
