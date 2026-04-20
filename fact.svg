@@ -82,7 +82,7 @@
     filter="url(#acid-glow)">~/fact $</text>
 
   <!-- Fact text lines -->
-    <text x="36" y="88" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#f0f0f0" letter-spacing="0.3">Mr. Rogers is an ordained minister.</text>
+    <text x="36" y="88" font-family="'Courier New', Courier, monospace" font-size="13.5" fill="#f0f0f0" letter-spacing="0.3">A day on Venus is longer than a year on Venus.</text>
 
   <!-- Bottom fade overlay -->
   <rect x="0" y="92" width="740" height="40" fill="url(#fade-bottom)" rx="10"/>
@@ -95,7 +95,7 @@
   <text x="36" y="114"
     font-family="'Courier New', Courier, monospace"
     font-size="9" fill="#b8cc00"
-    letter-spacing="1" opacity="0.6">UPDATED :: 20 Apr 2026 · 08:42 UTC</text>
+    letter-spacing="1" opacity="0.6">UPDATED :: 20 Apr 2026 · 08:50 UTC</text>
 
   <!-- Source tag -->
   <text x="704" y="114"
