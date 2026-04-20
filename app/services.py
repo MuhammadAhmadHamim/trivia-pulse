@@ -1,33 +1,40 @@
-import requests
 import json
+import random
+import os
 
 
-FACTS_API_URL = "https://api.api-ninjas.com/v1/facts"
-FALLBACK_FACTS = [
-    "Honey never spoils. Archaeologists have found 3000-year-old honey in Egyptian tombs that was still edible.",
-    "A group of flamingos is called a 'flamboyance'.",
-    "The shortest war in history lasted 38 to 45 minutes — between Britain and Zanzibar in 1896.",
-    "Octopuses have three hearts and blue blood.",
-    "The Eiffel Tower can grow by more than 6 inches in summer due to thermal expansion.",
-    "A day on Venus is longer than a year on Venus.",
-    "Bananas are berries, but strawberries are not.",
-]
+FACTS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "facts.json")
 
 
 def get_random_fact() -> str:
     """
-    Fetch a random fact from the uselessfacts API.
-    Falls back to a local fact if the request fails.
+    Load a random fact from the curated facts.json file.
+    Falls back to a hardcoded fact if the file is missing or malformed.
     """
     try:
-        response = requests.get(FACTS_API_URL, timeout=10)
-        response.raise_for_status()
-        data = response.json()
-        fact = data.get("text", "").strip()
-        if fact:
-            return fact
-    except (requests.RequestException, json.JSONDecodeError, KeyError):
+        with open(FACTS_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        facts = data.get("facts", [])
+        if facts:
+            return random.choice(facts)["fact"]
+    except (FileNotFoundError, json.JSONDecodeError, KeyError):
         pass
 
-    import random
-    return random.choice(FALLBACK_FACTS)
+    return "A neutron star is so dense that a teaspoon of its material would weigh 10 million tons on Earth."
+
+
+def get_random_fact_by_category(category: str) -> str:
+    """
+    Optional: pull a fact from a specific category.
+    Falls back to fully random if category not found.
+    """
+    try:
+        with open(FACTS_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        filtered = [f for f in data.get("facts", []) if f.get("category") == category]
+        if filtered:
+            return random.choice(filtered)["fact"]
+    except (FileNotFoundError, json.JSONDecodeError, KeyError):
+        pass
+
+    return get_random_fact()
