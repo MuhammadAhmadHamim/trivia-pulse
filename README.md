@@ -105,7 +105,7 @@ python app/main.py
 | **Void Black** | `#0a0a0a` | Card background |
 | **Terminal White** | `#e8e8e8` | Primary text and borders |
 | **Dim Silver** | `#a0a0a0` | Secondary text and accents |
-| **Ghost White** | `#f0f0f0` | Fact body text |
+| **Acid Yellow** | `#e8ff00` | Fact body text |
 
 </div>
 
