@@ -15,6 +15,7 @@ DIM_SILVER     = "#a0a0a0"
 GHOST_WHITE    = "#f0f0f0"
 GRID_COLOR     = "#161616"
 ACCENT_LINE    = "#c0c0c0"
+ACID_YELLOW    = "#e8ff00"
 
 FONT           = "Courier New, Courier, monospace"
 
@@ -35,7 +36,7 @@ def build_svg(fact: str) -> str:
             f'  <text x="36" y="{y}"'
             f' font-family="{FONT}"'
             f' font-size="13.5"'
-            f' fill="{GHOST_WHITE}"'
+            f' fill="{ACID_YELLOW}"'
             f' letter-spacing="0.3">'
             f'{escape_xml(line)}</text>\n'
         )
