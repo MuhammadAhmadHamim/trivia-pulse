@@ -2,7 +2,7 @@ import requests
 import json
 
 
-FACTS_API_URL = "https://uselessfacts.jsph.pl/api/v2/facts/random"
+FACTS_API_URL = "https://api.api-ninjas.com/v1/facts"
 FALLBACK_FACTS = [
     "Honey never spoils. Archaeologists have found 3000-year-old honey in Egyptian tombs that was still edible.",
     "A group of flamingos is called a 'flamboyance'.",
