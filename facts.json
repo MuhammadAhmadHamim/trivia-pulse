@@ -1,0 +1,279 @@
+{
+    "facts": [
+      {
+        "id": 1,
+        "category": "space",
+        "fact": "There are more stars in the observable universe than grains of sand on every beach and desert on Earth — roughly 10 times more."
+      },
+      {
+        "id": 2,
+        "category": "space",
+        "fact": "A day on Venus is longer than a year on Venus. It takes 243 Earth days to rotate once, but only 225 Earth days to orbit the Sun."
+      },
+      {
+        "id": 3,
+        "category": "space",
+        "fact": "Neutron stars are so dense that a teaspoon of their material would weigh about 10 million tons on Earth."
+      },
+      {
+        "id": 4,
+        "category": "space",
+        "fact": "The Voyager 1 spacecraft, launched in 1977, is now over 24 billion kilometers from Earth — and it's still sending us data."
+      },
+      {
+        "id": 5,
+        "category": "space",
+        "fact": "Saturn's rings are only about 10 meters thick on average, despite being 282,000 kilometers wide. Proportionally thinner than a sheet of paper."
+      },
+      {
+        "id": 6,
+        "category": "space",
+        "fact": "There is a giant cloud of alcohol floating in space — Sagittarius B2 contains enough ethyl alcohol to fill 400 trillion trillion pints of beer."
+      },
+      {
+        "id": 7,
+        "category": "space",
+        "fact": "The Sun loses about 4 million tons of mass every single second through nuclear fusion — and has been doing so for 4.6 billion years."
+      },
+      {
+        "id": 8,
+        "category": "space",
+        "fact": "If you removed all the empty space from atoms in every human on Earth, all 8 billion of us would fit in a cube the size of a sugar cube."
+      },
+      {
+        "id": 9,
+        "category": "biology",
+        "fact": "Your body produces about 25 million new cells every second. In the time it takes to read this sentence, you've made more cells than there are people in Australia."
+      },
+      {
+        "id": 10,
+        "category": "biology",
+        "fact": "The human brain can store approximately 2.5 petabytes of information — equivalent to 3 million hours of TV shows."
+      },
+      {
+        "id": 11,
+        "category": "biology",
+        "fact": "Octopuses have three hearts, nine brains, and blue blood. Two hearts pump blood to the gills, one to the rest of the body, and each arm has its own mini-brain."
+      },
+      {
+        "id": 12,
+        "category": "biology",
+        "fact": "The tardigrade can survive in the vacuum of space, withstand radiation 1000x the lethal dose for humans, and live for 30 years without food or water."
+      },
+      {
+        "id": 13,
+        "category": "biology",
+        "fact": "Cleopatra lived closer in time to the Moon landing than to the construction of the Great Pyramid of Giza."
+      },
+      {
+        "id": 14,
+        "category": "biology",
+        "fact": "Your stomach acid is strong enough to dissolve razor blades — it has a pH of 1.5 to 3.5, similar to battery acid."
+      },
+      {
+        "id": 15,
+        "category": "biology",
+        "fact": "Humans share 60% of their DNA with bananas, 85% with mice, and 98.7% with chimpanzees."
+      },
+      {
+        "id": 16,
+        "category": "biology",
+        "fact": "The electric eel can generate up to 860 volts of electricity — enough to power 10 lightbulbs or knock a horse unconscious."
+      },
+      {
+        "id": 17,
+        "category": "biology",
+        "fact": "A single strand of human DNA, fully uncoiled, is about 2 meters long. If you uncoiled all the DNA in your body it would stretch to Pluto and back — 17 times."
+      },
+      {
+        "id": 18,
+        "category": "biology",
+        "fact": "Mantis shrimp can throw a punch at 80 km/h, generating a force of 1,500 Newtons — enough to shatter aquarium glass."
+      },
+      {
+        "id": 19,
+        "category": "physics",
+        "fact": "If you fell into a black hole, an outside observer would see you freeze and slowly fade away. You, however, would experience nothing unusual as you crossed the event horizon."
+      },
+      {
+        "id": 20,
+        "category": "physics",
+        "fact": "Light takes 8 minutes to travel from the Sun to Earth. The sunlight you're seeing right now left the Sun before you had your last cup of tea."
+      },
+      {
+        "id": 21,
+        "category": "physics",
+        "fact": "Time literally moves faster at higher altitudes due to gravity's effect on spacetime. GPS satellites have to correct for this or they'd be off by about 10 km per day."
+      },
+      {
+        "id": 22,
+        "category": "physics",
+        "fact": "Quantum entanglement allows two particles to instantly affect each other regardless of distance — Einstein called it 'spooky action at a distance' and it's been experimentally verified."
+      },
+      {
+        "id": 23,
+        "category": "physics",
+        "fact": "At absolute zero (-273.15°C), atoms nearly stop moving entirely. Scientists have cooled matter to within a billionth of a degree above it."
+      },
+      {
+        "id": 24,
+        "category": "physics",
+        "fact": "The Planck length (1.6 × 10⁻³⁵ meters) is so small that if an atom were scaled to the size of the observable universe, the Planck length would be the size of an actual atom."
+      },
+      {
+        "id": 25,
+        "category": "history",
+        "fact": "The Oxford University is older than the Aztec Empire. Teaching started at Oxford around 1096 AD; the Aztec Empire was founded in 1428 AD."
+      },
+      {
+        "id": 26,
+        "category": "history",
+        "fact": "Nintendo was founded in 1889 — 32 years before the first commercial radio broadcast. It started as a playing card company."
+      },
+      {
+        "id": 27,
+        "category": "history",
+        "fact": "The fax machine was invented in 1843 — 33 years before the telephone. You could fax documents before you could call anyone."
+      },
+      {
+        "id": 28,
+        "category": "history",
+        "fact": "Woolly mammoths were still alive when the Great Pyramid of Giza was being built. A small population survived on Wrangel Island until 1650 BC."
+      },
+      {
+        "id": 29,
+        "category": "history",
+        "fact": "The shortest war in recorded history lasted 38 minutes — Britain vs Zanzibar in 1896. Zanzibar surrendered before the British had finished breakfast."
+      },
+      {
+        "id": 30,
+        "category": "history",
+        "fact": "There are more possible iterations of a game of chess than there are atoms in the observable universe — roughly 10^120 possible games."
+      },
+      {
+        "id": 31,
+        "category": "history",
+        "fact": "The Great Wall of China is not visible from space with the naked eye — that's a myth. But it is longer than the distance from Earth to the Moon."
+      },
+      {
+        "id": 32,
+        "category": "history",
+        "fact": "Ancient Romans used crushed mouse brains as toothpaste. They were also known to use urine as mouthwash — and it actually worked due to the ammonia content."
+      },
+      {
+        "id": 33,
+        "category": "technology",
+        "fact": "The first computer bug was a literal bug — a moth found trapped in a relay of the Harvard Mark II computer in 1947. Grace Hopper's team taped it into the logbook."
+      },
+      {
+        "id": 34,
+        "category": "technology",
+        "fact": "The Apollo 11 guidance computer that took humans to the Moon had 4KB of RAM and ran at 0.043 MHz. Your phone is roughly 100,000,000 times more powerful."
+      },
+      {
+        "id": 35,
+        "category": "technology",
+        "fact": "The total amount of data generated globally every day is approximately 2.5 quintillion bytes. 90% of all data ever created was generated in the last two years."
+      },
+      {
+        "id": 36,
+        "category": "technology",
+        "fact": "Email is older than the World Wide Web. Ray Tomlinson sent the first email in 1971 — the web wasn't invented until 1989."
+      },
+      {
+        "id": 37,
+        "category": "technology",
+        "fact": "There are more transistors on a modern GPU than there are neurons in a human brain. Nvidia's H100 has 80 billion transistors; your brain has ~86 billion neurons."
+      },
+      {
+        "id": 38,
+        "category": "technology",
+        "fact": "The first 1GB hard drive, released by IBM in 1980, weighed 250 kg and cost $40,000. Today a 1GB microSD card costs less than a cup of coffee."
+      },
+      {
+        "id": 39,
+        "category": "mathematics",
+        "fact": "If you shuffle a deck of cards properly, the exact order you get has almost certainly never existed before in history — and never will again. There are 8×10^67 possible arrangements."
+      },
+      {
+        "id": 40,
+        "category": "mathematics",
+        "fact": "The number googol (10^100) is smaller than the number of possible games of chess (10^120), which is itself dwarfed by Graham's number — a number so large it can't be written in the observable universe."
+      },
+      {
+        "id": 41,
+        "category": "mathematics",
+        "fact": "In a room of just 23 people, there is a greater than 50% chance that two of them share the same birthday. With 70 people, the probability reaches 99.9%."
+      },
+      {
+        "id": 42,
+        "category": "mathematics",
+        "fact": "Pi has been calculated to over 100 trillion decimal places and no pattern has ever been found. It is, as far as we know, infinite and non-repeating."
+      },
+      {
+        "id": 43,
+        "category": "earth",
+        "fact": "Lightning strikes Earth approximately 100 times every single second — that's 8 million times per day and about 3 billion times per year."
+      },
+      {
+        "id": 44,
+        "category": "earth",
+        "fact": "The Earth's core is approximately the same temperature as the surface of the Sun — around 5,500°C."
+      },
+      {
+        "id": 45,
+        "category": "earth",
+        "fact": "There is more water locked in Earth's mantle than in all the oceans on the surface combined — stored inside a mineral called ringwoodite."
+      },
+      {
+        "id": 46,
+        "category": "earth",
+        "fact": "The Pacific Ocean is so large that all of Earth's continents could fit inside it with room to spare."
+      },
+      {
+        "id": 47,
+        "category": "earth",
+        "fact": "Mount Everest is not the tallest mountain on Earth — Mauna Kea in Hawaii is, when measured from its oceanic base. It stands 10,210 meters tall vs Everest's 8,849 meters."
+      },
+      {
+        "id": 48,
+        "category": "psychology",
+        "fact": "The human brain cannot multitask — it rapidly switches between tasks, each switch costing time and cognitive energy. True parallel processing in humans is a myth."
+      },
+      {
+        "id": 49,
+        "category": "psychology",
+        "fact": "Your brain is more active during deep sleep than during many waking hours — it uses sleep to flush out toxic waste products that build up during the day."
+      },
+      {
+        "id": 50,
+        "category": "psychology",
+        "fact": "The 'doorway effect' is a real phenomenon — walking through a doorway causes your brain to file away the previous room's context, which is why you forget why you walked in."
+      },
+      {
+        "id": 51,
+        "category": "psychology",
+        "fact": "You cannot hum while holding your nose closed. Try it."
+      },
+      {
+        "id": 52,
+        "category": "biology",
+        "fact": "Sharks are older than trees. Sharks have existed for ~450 million years; trees only evolved ~350 million years ago. Sharks survived all five mass extinctions."
+      },
+      {
+        "id": 53,
+        "category": "space",
+        "fact": "The largest known star, Stephenson 2-18, is so massive that if placed at the center of our solar system, its surface would extend past Saturn's orbit."
+      },
+      {
+        "id": 54,
+        "category": "physics",
+        "fact": "A proton travels around the Large Hadron Collider at CERN 11,245 times per second — that's 99.9999991% the speed of light."
+      },
+      {
+        "id": 55,
+        "category": "history",
+        "fact": "Humans have only explored about 20% of Earth's oceans. We have better maps of the Moon and Mars than we do of our own ocean floor."
+      }
+    ]
+  }
