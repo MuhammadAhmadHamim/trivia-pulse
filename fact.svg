@@ -44,12 +44,12 @@
   <text x="704" y="34" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.6">SYS::RANDOM_FACT</text>
   <line x1="36" y1="46" x2="704" y2="46" stroke="#c0c0c0" stroke-width="0.5" opacity="0.3"/>
   <text x="36" y="72" font-family="Courier New, Courier, monospace" font-size="12" fill="#e8e8e8" filter="url(#text-glow)">~/fact $</text>
-  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">If you fell into a black hole, an outside observer would see you</text>
-  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">freeze and slowly fade away. You, however, would experience nothing</text>
-  <text x="36" y="132" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">unusual as you crossed the event horizon.</text>
+  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">The &apos;doorway effect&apos; is a real phenomenon — walking through a</text>
+  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">doorway causes your brain to file away the previous room&apos;s context,</text>
+  <text x="36" y="132" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">which is why you forget why you walked in.</text>
 
   <rect x="0" y="136" width="740" height="40" fill="url(#fade-bottom)" rx="10"/>
   <line x1="36" y1="148" x2="704" y2="148" stroke="#c0c0c0" stroke-width="0.5" opacity="0.15"/>
-  <text x="36" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 21 Apr 2026 · 02:25 UTC</text>
+  <text x="36" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 22 Apr 2026 · 02:23 UTC</text>
   <text x="704" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.4">uselessfacts.jsph.pl</text>
 </svg>
