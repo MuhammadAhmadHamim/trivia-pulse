@@ -44,12 +44,12 @@
   <text x="704" y="34" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.6">SYS::RANDOM_FACT</text>
   <line x1="36" y1="46" x2="704" y2="46" stroke="#c0c0c0" stroke-width="0.5" opacity="0.3"/>
   <text x="36" y="72" font-family="Courier New, Courier, monospace" font-size="12" fill="#e8e8e8" filter="url(#text-glow)">~/fact $</text>
-  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">The number googol (10^100) is smaller than the number of possible</text>
-  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">games of chess (10^120), which is itself dwarfed by Graham&apos;s number</text>
-  <text x="36" y="132" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">— a number so large it can&apos;t be written in the observable universe.</text>
+  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">Ancient Romans used crushed mouse brains as toothpaste. They were</text>
+  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">also known to use urine as mouthwash — and it actually worked due to</text>
+  <text x="36" y="132" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">the ammonia content.</text>
 
   <rect x="0" y="136" width="740" height="40" fill="url(#fade-bottom)" rx="10"/>
   <line x1="36" y1="148" x2="704" y2="148" stroke="#c0c0c0" stroke-width="0.5" opacity="0.15"/>
-  <text x="36" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 03 May 2026 · 02:41 UTC</text>
+  <text x="36" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 04 May 2026 · 02:38 UTC</text>
   <text x="704" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.4">uselessfacts.jsph.pl</text>
 </svg>
