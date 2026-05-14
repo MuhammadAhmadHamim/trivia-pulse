@@ -44,11 +44,11 @@
   <text x="704" y="34" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.6">SYS::RANDOM_FACT</text>
   <line x1="36" y1="46" x2="704" y2="46" stroke="#c0c0c0" stroke-width="0.5" opacity="0.3"/>
   <text x="36" y="72" font-family="Courier New, Courier, monospace" font-size="12" fill="#e8e8e8" filter="url(#text-glow)">~/fact $</text>
-  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">The human brain can store approximately 2.5 petabytes of information</text>
-  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">— equivalent to 3 million hours of TV shows.</text>
+  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">Cleopatra lived closer in time to the Moon landing than to the</text>
+  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">construction of the Great Pyramid of Giza.</text>
 
   <rect x="0" y="114" width="740" height="40" fill="url(#fade-bottom)" rx="10"/>
   <line x1="36" y1="126" x2="704" y2="126" stroke="#c0c0c0" stroke-width="0.5" opacity="0.15"/>
-  <text x="36" y="136" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 13 May 2026 · 02:50 UTC</text>
+  <text x="36" y="136" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 14 May 2026 · 02:52 UTC</text>
   <text x="704" y="136" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.4">uselessfacts.jsph.pl</text>
 </svg>
