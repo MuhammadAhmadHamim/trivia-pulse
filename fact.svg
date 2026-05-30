@@ -44,12 +44,12 @@
   <text x="704" y="34" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.6">SYS::RANDOM_FACT</text>
   <line x1="36" y1="46" x2="704" y2="46" stroke="#c0c0c0" stroke-width="0.5" opacity="0.3"/>
   <text x="36" y="72" font-family="Courier New, Courier, monospace" font-size="12" fill="#e8e8e8" filter="url(#text-glow)">~/fact $</text>
-  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">At absolute zero (-273.15°C), atoms nearly stop moving entirely.</text>
-  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">Scientists have cooled matter to within a billionth of a degree</text>
-  <text x="36" y="132" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">above it.</text>
+  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">Time literally moves faster at higher altitudes due to gravity&apos;s</text>
+  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">effect on spacetime. GPS satellites have to correct for this or</text>
+  <text x="36" y="132" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">they&apos;d be off by about 10 km per day.</text>
 
   <rect x="0" y="136" width="740" height="40" fill="url(#fade-bottom)" rx="10"/>
   <line x1="36" y1="148" x2="704" y2="148" stroke="#c0c0c0" stroke-width="0.5" opacity="0.15"/>
-  <text x="36" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 29 May 2026 · 02:56 UTC</text>
+  <text x="36" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 30 May 2026 · 02:49 UTC</text>
   <text x="704" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.4">uselessfacts.jsph.pl</text>
 </svg>
