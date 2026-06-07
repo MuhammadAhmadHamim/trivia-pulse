@@ -44,12 +44,12 @@
   <text x="704" y="34" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.6">SYS::RANDOM_FACT</text>
   <line x1="36" y1="46" x2="704" y2="46" stroke="#c0c0c0" stroke-width="0.5" opacity="0.3"/>
   <text x="36" y="72" font-family="Courier New, Courier, monospace" font-size="12" fill="#e8e8e8" filter="url(#text-glow)">~/fact $</text>
-  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">The largest known star, Stephenson 2-18, is so massive that if</text>
-  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">placed at the center of our solar system, its surface would extend</text>
-  <text x="36" y="132" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">past Saturn&apos;s orbit.</text>
+  <text x="36" y="88" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">Pi has been calculated to over 100 trillion decimal places and no</text>
+  <text x="36" y="110" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">pattern has ever been found. It is, as far as we know, infinite and</text>
+  <text x="36" y="132" font-family="Courier New, Courier, monospace" font-size="13.5" fill="#e8ff00" letter-spacing="0.3">non-repeating.</text>
 
   <rect x="0" y="136" width="740" height="40" fill="url(#fade-bottom)" rx="10"/>
   <line x1="36" y1="148" x2="704" y2="148" stroke="#c0c0c0" stroke-width="0.5" opacity="0.15"/>
-  <text x="36" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 06 Jun 2026 · 02:53 UTC</text>
+  <text x="36" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" letter-spacing="1" opacity="0.5">UPDATED :: 07 Jun 2026 · 03:38 UTC</text>
   <text x="704" y="158" font-family="Courier New, Courier, monospace" font-size="9" fill="#a0a0a0" text-anchor="end" letter-spacing="1" opacity="0.4">uselessfacts.jsph.pl</text>
 </svg>
