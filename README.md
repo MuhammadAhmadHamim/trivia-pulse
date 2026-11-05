@@ -91,6 +91,8 @@ trivia-pulse/
 
 ```bash
 git clone https://github.com/MuhammadAhmadHamim/trivia-pulse
+cd trivia-pulse
+
 python app/main.py
 ```
 
